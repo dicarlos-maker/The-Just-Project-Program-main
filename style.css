@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+
+* {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+
+img {
+    height: auto;
+    width: 15%;
+}
+
+h1 {
+    margin: 0;
+    
+}
+
+.wrapper {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+hr {
+    width: 90%;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+table, th, td {
+    margin: auto;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 40%;
+    padding: 20px 10px;
+    
+}
